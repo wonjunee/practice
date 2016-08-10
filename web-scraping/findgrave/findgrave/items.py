@@ -13,3 +13,4 @@ class FindgraveItem(scrapy.Item):
 	title = scrapy.Field()
 	link = scrapy.Field()
 	description = scrapy.Field()
+	country = scrapy.Field()
