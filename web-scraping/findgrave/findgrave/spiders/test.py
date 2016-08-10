@@ -1,6 +1,6 @@
 """
 scrapy example
-scraping data from findgrave
+scraping data from findgrave website
 """
 
 from scrapy.spider import BaseSpider
